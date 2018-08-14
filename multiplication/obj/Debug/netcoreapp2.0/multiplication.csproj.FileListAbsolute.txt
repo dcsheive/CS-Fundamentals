@@ -1,0 +1,10 @@
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\multiplication\obj\Debug\netcoreapp2.0\multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\multiplication\obj\Debug\netcoreapp2.0\multiplication.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\multiplication\obj\Debug\netcoreapp2.0\multiplication.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\multiplication\bin\Debug\netcoreapp2.0\multiplication.deps.json
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\multiplication\bin\Debug\netcoreapp2.0\multiplication.runtimeconfig.json
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\multiplication\bin\Debug\netcoreapp2.0\multiplication.runtimeconfig.dev.json
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\multiplication\bin\Debug\netcoreapp2.0\multiplication.dll
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\multiplication\bin\Debug\netcoreapp2.0\multiplication.pdb
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\multiplication\obj\Debug\netcoreapp2.0\multiplication.dll
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\multiplication\obj\Debug\netcoreapp2.0\multiplication.pdb
