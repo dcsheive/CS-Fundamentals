@@ -11,6 +11,7 @@ namespace FirstCSharp
             Console.WriteLine("jello"+121);
             Console.WriteLine("My name is {0}, I am " + 28 + " years old", "Tim"); 
             Console.WriteLine($"My name is {0}, I am " + 28 + " years old", "Tim");
+            Console.Write(typeof(string).Assembly.ImageRuntimeVersion);
         }
     }
 }

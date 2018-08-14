@@ -1,0 +1,10 @@
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\cards\obj\Debug\netcoreapp2.0\cards.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\cards\obj\Debug\netcoreapp2.0\cards.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\cards\obj\Debug\netcoreapp2.0\cards.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\cards\bin\Debug\netcoreapp2.0\cards.deps.json
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\cards\bin\Debug\netcoreapp2.0\cards.runtimeconfig.json
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\cards\bin\Debug\netcoreapp2.0\cards.runtimeconfig.dev.json
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\cards\bin\Debug\netcoreapp2.0\cards.dll
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\cards\bin\Debug\netcoreapp2.0\cards.pdb
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\cards\obj\Debug\netcoreapp2.0\cards.dll
+C:\Users\Laptop\Desktop\DojoAssignments\C#\fundamentals\cards\obj\Debug\netcoreapp2.0\cards.pdb

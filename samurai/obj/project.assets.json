@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Laptop\\Desktop\\DojoAssignments\\C#\\fundamentals\\firstcsharp\\FirstCSharp.csproj",
-      "projectName": "FirstCSharp",
-      "projectPath": "C:\\Users\\Laptop\\Desktop\\DojoAssignments\\C#\\fundamentals\\firstcsharp\\FirstCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Laptop\\Desktop\\DojoAssignments\\C#\\fundamentals\\samurai\\samurai.csproj",
+      "projectName": "samurai",
+      "projectPath": "C:\\Users\\Laptop\\Desktop\\DojoAssignments\\C#\\fundamentals\\samurai\\samurai.csproj",
       "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laptop\\Desktop\\DojoAssignments\\C#\\fundamentals\\firstcsharp\\obj\\",
+      "outputPath": "C:\\Users\\Laptop\\Desktop\\DojoAssignments\\C#\\fundamentals\\samurai\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
